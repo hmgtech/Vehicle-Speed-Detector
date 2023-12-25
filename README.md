@@ -2,7 +2,7 @@
 
 ![output.gif](output.gif)
 
-Technologies used :
+## Technologies used :
 - Python
 - opencv
 - dlib
@@ -25,10 +25,10 @@ Tasks breakdown
 Follow steps:
 
 1. Clone repo :
-`git clone https://github.com/kraten/vehicle-speed-check`
+`git clone https://github.com/hmgtech/Vehicle-Speed-Detector.git`
 
 2. cd (change directory) into vehicle-speed-check
-`cd vehicle-speed-check`
+`cd Vehicle-Speed-Detector`
 
 3. Create virtual environment
 `python -m venv venv`
