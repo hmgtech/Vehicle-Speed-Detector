@@ -1,3 +1,9 @@
+[![language](https://img.shields.io/badge/language-python3.8-blue
+)](https://img.shields.io/badge/language-python3.8-blue
+) 
+[![license](https://img.shields.io/badge/license-MIT-orange
+)](https://img.shields.io/badge/coverage-86%25-orange
+)
 # Vehicle Speed Detection
 
 ![output.gif](output.gif)
